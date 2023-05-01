@@ -1,6 +1,8 @@
-## EpicNoir RetroPie Theme
+## EpicNoir RG503 Theme
 
-This is a modern dark RetroPie theme based on original ideas by Chicuelo and brought to life in collaboration with Nick L (c64-dev).
+This is a modern dark Anbernic RG503 theme based on original ideas by Chicuelo and Nick L (c64-dev).
+Anbernic has commercial his retro handheld RG503 with an altered version from this theme and excludes the authors' proper credits from files.
+I liked the theme and decided to remaster it with the original authors' credits and some adjustments for the RG503 handheld screen.
 
 ---
 
@@ -24,7 +26,7 @@ PROHIBITED:
 ### Please note:
 By downloading and installing this theme it will be assumed that you own and possess the rights for all ROMs you intend to use. This is a free theme so you can install it and share it with others - **but you are *not* allowed to sell or generate any kind of monetary profit from this theme. Please see the 'License' section above for more details.**
 
-###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
+###### [back to top](https://github.com/elanlopes/es-theme-rg503-epicnoir#epicnoir-retropie-theme)
 
 ---
 
@@ -33,19 +35,23 @@ By downloading and installing this theme it will be assumed that you own and pos
 All original artwork belongs to the many artists who devoted their talents and time into making them. 
 Most of them can be found in [DeviantArt](http://www.deviantart.com/).
 
-###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
+Chicuelo [website](https://chicuelo.com.ar/)
+
+Nick L (aka C64-dev) [gitHub](https://github.com/c64-dev)
+
+###### [back to top](https://github.com/elanlopes/es-theme-rg503-epicnoir#epicnoir-retropie-theme)
 
 ---
 
 ### Features
 
 * Dark and clean interface
-* New high quality wallpapers for all systems
+* High quality wallpapers for all systems
 * Custom collections pre-designed / created for various genres (such as Shoot 'em Up, etc)
 * Collections for 'All Games', 'Favorites', 'Last Played' and 'Custom Collections' fully supported
 * Support for screenshots/boxart and/or video.
 
-###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
+###### [back to top](https://github.com/elanlopes/es-theme-rg503-epicnoir#epicnoir-retropie-theme)
 
 ---
 
@@ -73,7 +79,7 @@ This theme supports video. You can also use a scraped image in conjunction with 
 
 Game screenshots are not included within the theme. You can scrape your own - you should use game boxart/screenshots and/or videos.
 
-###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
+###### [back to top](https://github.com/elanlopes/es-theme-rg503-epicnoir#epicnoir-retropie-theme)
 
 ---
 
@@ -94,7 +100,7 @@ Game screenshots are not included within the theme. You can scrape your own - yo
 ![Sample13](https://github.com/c64-dev/es-epicnoir/blob/master/_art/samples/013.jpg) 
 
 
-###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
+###### [back to top](https://github.com/elanlopes/es-theme-rg503-epicnoir#epicnoir-retropie-theme)
 
 ## Fully Supported Systems
 ###### (backgrounds, controller images, descriptions) :
@@ -158,4 +164,4 @@ x-68000
 Auto Collections
 Custom Collections (for when a user creates their own collection within ES)
 
-###### [back to top](https://github.com/c64-dev/es-epicnoir#epicnoir-retropie-theme)
+###### [back to top](https://github.com/elanlopes/es-theme-rg503-epicnoir#epicnoir-retropie-theme)
