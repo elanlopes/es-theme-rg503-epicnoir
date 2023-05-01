@@ -13,7 +13,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 -->
 
 <theme>
-    <formatVersion>4</formatVersion>
+    <formatVersion>7</formatVersion>
 
     <view name="system">
         <image name="background" extra="true">
@@ -148,6 +148,12 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <pos>0.12 0.61</pos>
             <maxSize>0.32 0.32</maxSize>
         </image>
+
+        <datetime name="md_releasedate, md_lastplayed">
+            <origin>1 1</origin>
+            <color>00000000</color>
+            <pos>0 0</pos>
+        </datetime>
     </view>
 
     <view name="basic, detailed, video">
@@ -317,12 +323,13 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <origin>1 1</origin>
             <color>00000000</color>
             <pos>0 0</pos>
-            </datetime>
+        </datetime>
             
         <helpsystem name="help">
             <origin>1 1</origin>
             <pos>0 0</pos> 
         </helpsystem>
+        
     </view>
 
     <view name="basic, detailed, grid">
@@ -347,4 +354,52 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         </view>
     </feature>
 
+    <view name="menu">
+        <menuBackground name="menubg">
+            <path>./_art/var/bg_color.png</path>
+            <color>202020CC</color>
+            <cornerSize>32 32</cornerSize>
+        </menuBackground>
+        <menuText name="menutitle">
+            <color>FFFFFFAA</color>
+        </menuText>
+        <menuText name="menufooter">
+            <color>777777AA</color>
+        </menuText>
+        <menuText name="menutext">
+            <fontPath>./_art/Acre.otf</fontPath>
+            <fontSize>.037</fontSize>
+            <color>868686</color>
+            <separatorColor>191919</separatorColor>
+            <selectorColor>D90F1A</selectorColor>
+            <selectorColorEnd>F60915</selectorColorEnd>
+            <selectedColor>FFFFFF</selectedColor>
+        </menuText>
+        <menuTextSmall name="menutextsmall">
+            <fontPath>./_art/Acre.otf</fontPath>
+            <fontSize>0.022</fontSize>
+            <color>D90F1A</color>
+        </menuTextSmall>
+        <menuTextEdit name="menutextedit">
+            <inactive>./_art/assets/textinput_inactive.png</inactive>
+            <active>./_art/assets/textinput_active.png</active>
+        </menuTextEdit>
+        <menuIcons name="menuicons">
+            <iconSystem>./_art/icons/System.png</iconSystem>
+            <iconUpdates>./_art/icons/Updates.png</iconUpdates>
+            <iconGames>./_art/icons/Games.png</iconGames>
+            <iconControllers>./_art/icons/Controllers.png</iconControllers>
+            <iconUI>./_art/icons/UI.png</iconUI>
+            <iconSound>./_art/icons/Sound.png</iconSound>
+            <iconNetwork>./_art/icons/Network.png</iconNetwork>
+            <iconScraper>./_art/icons/Scraper.png</iconScraper>
+            <iconAdvanced>./_art/icons/Advanced.png</iconAdvanced>
+            <iconQuit>./_art/icons/Quit.png</iconQuit>
+            <iconRestart>./_art/icons/Restart.png</iconRestart>
+            <iconShutdown>./_art/icons/Shutdown.png</iconShutdown>
+            <iconFastShutdown>./_art/icons/Fastshutdown.png</iconFastShutdown>
+            <iconRetroachievements>./_art/icons/Contest.png</iconRetroachievements>
+            <iconEmuelec>./_art/icons/Emuelec.png</iconEmuelec>
+        </menuIcons>
+    </view>
 </theme>
