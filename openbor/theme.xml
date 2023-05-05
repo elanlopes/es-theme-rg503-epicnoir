@@ -17,10 +17,10 @@
   <size>0 0</size>
   </text>
   <text name="shortdescription" extra="true">
-  <text>Video Games System</text>
+  <text>2005  ·  Engine</text>
   </text>
   <text name="longdescription" extra="true">
-  <text>Video Games System</text>
+  <text>OpenBOR is a free and open-source side scrolling game engine. It can be used to play hundreds of fangames of popular franchies. It's mostly optimized for side scrolling beat 'em up style games, but can easily accommodate any sort of gameplay style and feature.</text>
   </text>
   </view>
   </theme>
