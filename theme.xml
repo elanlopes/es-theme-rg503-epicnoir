@@ -13,7 +13,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 -->
 
 <theme>
-    <formatVersion>4</formatVersion>
+    <formatVersion>7</formatVersion>
 
     <view name="system">
         <image name="background" extra="true">
@@ -404,4 +404,26 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <iconEmuelec>./_art/icons/Emuelec.png</iconEmuelec>
         </menuIcons>
     </view>
+
+    <view name="screen">
+        <text name="clock">
+            <pos>1 1</pos>
+        </text>
+        <batteryIndicator name="batteryIndicator">
+            <color>ffffff99</color>
+            <itemSpacing>0</itemSpacing>
+            <pos>0.022 0.011</pos>
+            <size>0.969981238273921 0.05</size><!-- 1862.36397748592832 54 - sized off of 1920x1080 to make the icon clear -->
+            <full>./_art/icons/battery-100-vertical.svg</full>
+            <at75>./_art/icons/battery-75-vertical.svg</at75>
+            <at50>./_art/icons/battery-50-vertical.svg</at50>
+            <at25>./_art/icons/battery-25-vertical.svg</at25>
+            <empty>./_art/icons/battery-0-vertical.svg</empty>
+            <incharge>./_art/icons/battery-charging-vertical.svg</incharge>
+            <networkIcon>./_art/icons/wifi-vertical.svg</networkIcon>
+        </batteryIndicator>
+        <controllerActivity name="controllerActivity">
+            <visible>false</visible>
+        </controllerActivity>
+   </view>
 </theme>
