@@ -154,6 +154,10 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
             <color>00000000</color>
             <pos>0 0</pos>
         </datetime>
+
+        <sound name="bgsound">
+            <path>./_inc/sounds/anbernic-rg503-epicnoir.ogg</path>	
+		</sound>
     </view>
 
     <view name="basic, detailed, video">
